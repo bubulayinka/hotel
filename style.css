@@ -67,8 +67,8 @@ body{
     position: relative;
     color: white;
     text-align: center;
-    top: 15vh;
-    font-size: 4rem;
+    top: 10vh;
+    font-size: 2rem;
     text-transform: capitalize;
 }
 .header-box{
