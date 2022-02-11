@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    max-width: 1024px;
+    
     font-size: 16px;
     font-family: 'Roboto', sans-serif;
 }
@@ -156,9 +156,9 @@ body{
     box-shadow: -20px 30px 1px #859daf;
 }
 .second-text p{
-    width: 50ch;
+    width: 40ch;
     padding-bottom: 20px;
-    font-size: 1rem;
+    font-size: .8rem;
 }
 .second-text h2{
     padding-top: 50px;
@@ -179,7 +179,7 @@ body{
     background-size: cover;
     padding: 30px 0;
     width: 100%;
-    max-width: 1000px;
+    
     border-top-left-radius: 40px;
     border-top-right-radius: 40px;
     border-bottom-right-radius: 40px;
@@ -198,13 +198,14 @@ body{
 }
 .third-inn{
     position: relative;
-    left: 150px;
+    
 }
 .third-inn h2{
     position: relative;
     color: white;
     padding-bottom: 10px;
     font-size: 1.5rem;
+    text-align: center;
 }
 .third-inn p{
     width: 65ch;
@@ -213,6 +214,7 @@ body{
     opacity: .6;
     padding-bottom: 30px;
     position: relative;
+    margin: 0 auto;
 }
 .third-img{
     display: grid;
@@ -226,7 +228,7 @@ body{
 .third-box p{
     color: black;
     opacity: .5;
-    width: 37ch;
+    width: 33ch;
     font-size: .8rem;
    margin-left: 5px;
 }
